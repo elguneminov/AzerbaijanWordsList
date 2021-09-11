@@ -1,1 +1,1 @@
-# AzerbaycanWordsList
+# Azerbaijan Words List
